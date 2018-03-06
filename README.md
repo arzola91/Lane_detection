@@ -1,2 +1,3 @@
 # Lane_detection
-Attempt to detect lanes in a given image using OpenCV
+Project under construction. 
+Attempt to detect lanes on a given image using ROS + OpenCV.
